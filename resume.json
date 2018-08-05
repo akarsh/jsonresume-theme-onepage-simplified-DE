@@ -197,7 +197,7 @@
     "publications": [],
     "skills": [
     {
-        "name": "Programmiersprachen und Skripte",
+        "name": "Programmier- und Skriptsprachen",
         "level": "",
         "keywords": [
             "HTML",
@@ -209,11 +209,11 @@
         ]
     },
     {
-        "name": "Daten",
+        "name": "Datenbank",
         "level": "",
         "keywords": [
-            "SQL",
-            "NoSQL (MongoDB)"
+            "SQL (MySQL, PostgreSQL)",
+            "NoSQL (MongoDB, Redis, Neo4j)"
         ]
     },
     {
@@ -264,15 +264,16 @@
         "name": "Software / Anwendungen",
         "level": "",
         "keywords": [
-            "Latex",
+            "JIRA",
             "Confluence",
             "Wiki",
-            "Apache OpenOffice",
+            "Slack",
             "MS Office",
-            "Jira",
+            "DBeaver",
             "HappyFox",
             "Adobe Photoshop",
-            "GIMP"
+            "GIMP",
+            "Charles Proxy"
         ]
     }],
     "languages": [
